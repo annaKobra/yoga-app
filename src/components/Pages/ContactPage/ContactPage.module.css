@@ -1,0 +1,15 @@
+.ContactPage {
+    display: flex;
+    margin: 0 30px;
+    padding: 0 20px;
+}
+
+.ContactPage fieldset {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Contact {
+    margin-left: auto;
+}

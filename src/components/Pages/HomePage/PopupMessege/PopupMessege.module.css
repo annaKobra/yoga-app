@@ -1,0 +1,25 @@
+.MoveButton {
+    position: relative;
+    left: 90%;
+}
+
+.PopupMessege {
+    display: flex;
+    flex-direction: column;
+}
+
+.PopupMessege p{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+.Top {
+    display: flex; 
+}
+.Button {
+    margin-left: auto;
+}
+.Logo {
+    margin-right: auto;
+}

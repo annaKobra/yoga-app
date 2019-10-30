@@ -1,0 +1,482 @@
+{
+    "aboutPage": [
+        {
+            "id": "what-is-yoga",
+            "title": "What is yoga",
+            "description": "There are many ways to define or explain what yoga is. You can go into its benefits, how it's practiced, how its learned, who teaches it, and so on and so forth. All thatis helpful information if you want to get into yoga and learn the different yoga poses.But before all that, we're going to help you answer that age-old question: what is yoga? Yoga is a mind and body practice with a 5,000-year history in ancient Indian philosophy. The ultimate goal of practicing yoga is to attain tranquility in the mind and spirit, andmaking this goal achievable by means of yoga poses and meditation. It has a holistic orientation in that yoga is practiced physically, but its benefits extend to the mental and spiritual being"
+        },
+        {
+            "id": "history",
+            "title": "History",
+            "description": "Yoga has a long history of helping people achieve mental and physical balance.There is no written record of the inventor of yoga. Male yoga practitioners are known as yogis, and female yoga practitioners are called yoginis.Both practiced and taught yoga long before any written account of yoga came into existence. Over the next five millennia, yogis passed the discipline down to their students, and manydifferent schools of yoga developed as the practice expanded its global reach and popularity. The “Yoga Sutra,“ a 2,000-year-old treatise on yogic philosophy by the Indian sage Patanjali, is a guidebook on how to master the mind, control the emotions, and grow spiritually. The Yoga Sutra is the earliest written record of yoga and one of the oldest texts in existence and provides theframework for all modern yoga.Yoga is well known for its postures and poses, but they were not a key part of original yoga traditions in India. Fitness was not a primary goal. Practitioners and followers of yogic tradition focused instead on other practices, such as expanding spiritualenergy using breathing methods and mental focus.The tradition began to gain popularity in the West at the end of the 19th century. An explosion of interest in postural yoga occurred in the 1920s and 1930s, first in India and later in the West"
+        },
+        {
+            "id": "types-of-yoga",
+            "title": "Different types of yoga",
+            "description": "There are many styles of yoga, amongst the most popular are: Ashtanga, Vinyasw, Hatha, Iyengar, Kundalini, Yin. And no style is more authentic or superior to another. The key is to choose a class appropriate for your fitness level. We will dive into the depth of some types of yoga here:",
+            "content": [
+                {
+                    "id": "1",
+                    "title": "What does Hatha mean?",
+                    "body": "Hatha is a Sanskrit word that can be broken down into two smaller words: ha, meaning “sun,” and tha, meaning “moon.” The word may also mean “willful” or ”forceful”. The practice of Hatha yoga focuses on total mastery of the physical body, including all bodily functions. It also emphasizes activating the chakras in order to stimulate kundalini and promote spiritual and physical wellness, including disease elimination.Through the practice of Hatha yoga, the individual attempts to balance the mind, body and chakras through specific asanas and controlled, meditative breathing that complements the physical movements of the body. . Hatha yoga has become popular as an exercise that many Westerners participate in for the physical benefits alone, without the pairing of a spiritual practice."
+                },
+                {
+                    "id": "2",
+                    "title": "What does Vinyasa mean?",
+                    "body": "Vinyasa is a type of yoga that links movement and breath to attain balance in the mind and body. From the Sanskrit “to place in a special way,” vinyasa aligns a deliberate sequence of poses with the breath to achieve a continuous flow. Inhalation is usually connected to upward, open movements, while exhalation is often tied to downward movements or twists.As a category of yoga, vinyasa includes, but is not limited to, Power yoga, Baptiste yoga, Ashtanga, Jivamukti, and Prana Flow. Because vinyasa practice puts a strong focus on sun salutations, most vinyasa classes will focus heavily on this sequence. In fact vinyasa include a sequence of poses leading from the Sun Salutation, and including plank, chaturanga dandasana, upward-facing dog, and downward-facing dog. The continuous movement of vinyasa reflects the impermanence of all forms and the necessity of accepting change to achieve balance and completeness."
+                },
+                {
+                    "id": "3",
+                    "title": "What does Ashtanga mean?",
+                    "body": "Is a style of yoga that was developed by Sri K. Pattabhi Jois and T. Krishnamacharya in the 20th century,meaning “eight-limbed” in Sanskrit. Ashtanga yoga is a dynamic, flowing style that connects the movement of the body with the breath. The method stresses the importance of daily practice of a set series of movements. There are six series of Ashtanga yoga sequences.There are several key principles that underlie the practice of Ashtanga yoga:1.Breath: It is recommended that postures are held for five to eight breaths or more, if possible.2.Drishti: For every posture in the series, there is a set of drishtis, or gaze points.3.Vinyasa: This is the breathing system that connects every movement in the series with the breath.4.Bandhas: The practice should be carried out with the bandhas, or “body locks,“ engaged in order to ensure that the breath is also correct.5.Daily practice: A six-days-per-week practice is encouraged, with Saturday as the rest day."
+                }
+            ]
+        }
+    ],
+    "positionPoses": [
+        {
+            "poseId": "balance-poses",
+            "title": "What is Mountain Pose?",
+            "description": "Mountain pose, or tadasana, is yoga's foundational standing posture. Many asana sequences begin and end with this pose. The feet are usually together and the arms rest alongside the body while the head reaches upward.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Stand with your feet together and rest your arms by your sides"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Lengthen your spine with an inhale by reaching the crown of your head toward the sky"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Point your tailbone toward the floor and draw your shoulders back with an exhale"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Breathe while holding the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Mountain Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Develops balance between left and right sides of the body"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Promotes good posture"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Increases body and mind awareness"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "balance-poses",
+            "title": "What is Extended Triangle Pose?",
+            "description": "Extended triangle pose, or utthita trikonasana, is a standing yoga posture that improves balance and flexibility. In this posture, straight legs are spread apart with one foot at a 90-degree angle. With both arms extended, the body bends toward the lead foot so that one arm reaches toward the ground and the other toward the sky.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Beginning in mountain pose, turn to the right and step your right foot back about three feet"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Pivot your right foot until it is pointing to the back of the mat, while your left foot turns slightly in"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Grab your right big toe with your right hand, extend your left hand to the sky"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Rotate your left hip up and back."
+                        },
+                        {
+                            "id": "inst5",
+                            "description": "Look up toward your left hand."
+                        },
+                        {
+                            "id": "inst6",
+                            "description": "Breathe as you hold the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Triangle Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Stretches legs, ankle joints, hips, and shoulders"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Stretches the side body and hip flexors"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Strengthens legs, abdominals, obliques and back"
+                        },
+                        {
+                            "id": "benef4",
+                            "description": "Stimulates energy pathways in the body"
+                        },
+                        {
+                            "id": "benef5",
+                            "description": "Improves digestion"
+                        },
+                        {
+                            "id": "benef6",
+                            "description": "Improves balance and flexibility"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "seated-poses",
+            "title": "What is Child's Pose?",
+            "description": "Child's pose, or balasana in Sanskrit, is a gentle forward fold that's often used as a counter pose to backbends. With the legs folded under the body, the yogi leans forward and rests their forehead on the ground. This position gently stretches the body while relieving stress and fatigue.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Begin in thunderbolt pose with the legs folded under"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Exhale and bend forward, lowering the forehead to the floor"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Rest the arms alongside the body, palms facing up"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Breathe deeply while holding the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Child's Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Gently stretches the hips, thighs, spine and shoulders"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Stimulates digestion"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Relieves stress, anxiety and fatigue"
+                        },
+                        {
+                            "id": "benef4",
+                            "description": "Calms the mind"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "seated-poses",
+            "title": "What is Seated Forward Bend Pose?",
+            "description": "Seated forward bend pose, or paschimottanasana, stretches the spine while stimulating digestion. In this posture, the legs are outstretched and the hands clasp the feet, ankles or calves in a forward bend.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Sit with your legs stretched in front of you and together"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Reach your arms up with an inhale to lengthen your spine"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Fold forward with an exhale"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Clasp the outsides of your feet, ankles or calves, depending on your flexibility"
+                        },
+                        {
+                            "id": "inst5",
+                            "description": "Relax your head so that it's in line with your spine"
+                        },
+                        {
+                            "id": "inst6",
+                            "description": "Breathe while you hold the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Forward Bend Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Stretches the hamstrings"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Stretches the spine"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Stimulates digestion"
+                        },
+                        {
+                            "id": "benef4",
+                            "description": "Calms the mind"
+                        },
+                        {
+                            "id": "benef5",
+                            "description": "Facilitates pratyahara (withdrawal of senses)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "standing-poses",
+            "title": "What is Warrior One Pose?",
+            "description": "Warrior pose, or Virabhadrasana, is one of yoga's most famous poses. It's a standing posture commonly practiced in vinyasa classes. In this version, referred to as warrior one, the front knee is bent at a 90-degree angle while the back leg stretches back and the torso faces forward. It is part of the Sun Salutation B series, and is often followed by warrior two and warrior three pose",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Begin standing. Exhale and step your left foot way back"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Place the foot flat on the floor and point the toes 45 degrees to the lef"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Bend your right knee and align it over your right ankle. Check that your heels are in one line"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Inhale and reach your hands up, palms facing each other"
+                        },
+                        {
+                            "id": "inst5",
+                            "description": "Gaze forward and breathe while holding the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Warrior One Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Improves strength of the feet, legs, buttocks and core"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Builds stamina"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Improves coordination"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "standing-poses",
+            "title": "What is Warrior Two Pose?",
+            "description": "Warrior two pose, or virabhadrasana B in Sanskrit, is a powerful standing yoga pose that builds strength and stamina. It's most often entered from warrior one pose by planting the back foot, rotating the torso and hips to the side, and stretching the arms in either direction. While it's a basic yoga pose, warrior two is used for all levels as it gives a deep stretch to the hips and greatly strengthens the legs.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Begin in warrior one pose with the left foot forward"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Lower the back heel to the floor and rotate the foot 90 degrees to the right. Keep the left knee over the left ankle"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Rotate the hips and torso so they're facing right"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Inhale and reach the hands out to the sides"
+                        },
+                        {
+                            "id": "inst5",
+                            "description": "Gaze over the left shoulder"
+                        },
+                        {
+                            "id": "inst6",
+                            "description": "Breathe while holding the pose"
+                        },
+                        {
+                            "id": "inst7",
+                            "description": "Change sides"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Warrior Two Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Improves strength and stamina"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Builds core strength"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Improves flexibility"
+                        },
+                        {
+                            "id": "benef4",
+                            "description": "Opens the chest"
+                        },
+                        {
+                            "id": "benef5",
+                            "description": "Aids healthy digestion"
+                        },
+                        {
+                            "id": "benef6",
+                            "description": "Increases lung function"
+                        },
+                        {
+                            "id": "benef7",
+                            "description": "Improves strength and tone in legs"
+                        },
+                        {
+                            "id": "benef8",
+                            "description": "Improves circulation throughout the body"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "poseId": "supine-poses",
+            "title": "What is Savasana Pose?",
+            "description": "Savasana pose, or corpse, is yoga's universal resting pose. In this posture, the body lies supine with the legs and arms wide. It is used to facilitate rest at the end of all yoga practices.",
+            "content": [
+                {
+                    "title": "Instructions",
+                    "body": [
+                        {
+                            "id": "inst1",
+                            "description": "Lie on your back"
+                        },
+                        {
+                            "id": "inst2",
+                            "description": "Bring your feet wide and your hands a few inches away from your body, palms facing up and fingers relaxed"
+                        },
+                        {
+                            "id": "inst3",
+                            "description": "Close your eyes and relax your whole body"
+                        },
+                        {
+                            "id": "inst4",
+                            "description": "Breathe while holding the pose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits of Savasana Pose",
+                    "body": [
+                        {
+                            "id": "benef1",
+                            "description": "Relaxes body and mind"
+                        },
+                        {
+                            "id": "benef2",
+                            "description": "Releases lactic acid buildup"
+                        },
+                        {
+                            "id": "benef3",
+                            "description": "Recharges the body's energy"
+                        },
+                        {
+                            "id": "benef4",
+                            "description": "Allows mind to go inward"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "contactUs": {
+        "address": {
+            "street": "21 Aluf Kalman St",
+            "city": "Tel Aviv",
+            "postalCode": "10021,",
+            "state": "Israel"
+        },
+        "contact": {
+            "mobile": "Office: 212 555-1234",
+            "fax": "Fax: 646 555-4567"
+        }
+    },
+    "qustionPage": [
+        {
+            "id": "q1",
+            "question": "What does Namaste mean?",
+            "answer": "The gesture Namaste represents the belief that there is a Divine spark within each of us that is located in the heart chakra. The gesture is an acknowledgment of the soul in one by the soul in another."
+        },
+        {
+            "id": "q2",
+            "question": "What does Om mean?",
+            "answer": "it is the basic sound of the world, used to contain all other sounds. The sound of God, of the universe, etc. It’s a Sanskrit vibration or mantra made up of three different sounds (aa, au, and ma) that is used often at the beginning and/or end of yoga classes to not only join students with teachers, but also to connect us deeper with the entire universe."
+        },
+        {
+            "id": "q3",
+            "question": "Can I do yoga if I’m not flexible?",
+            "answer": "One of the most popular yoga myths is the belief that you need to be flexible before ever setting foot on a mat. The truth is, flexibility isn’t a prerequisite. In fact, a regular yoga practice will actually help you become more flexible over time. So, ignore the crazy pretzel poses on your social media feed and learn how yoga can benefit your physical and emotional health."
+        },
+        {
+            "id": "q4",
+            "question": "How many times a week should I practice?",
+            "answer": "Whether you are striving to master more advanced poses or just starting out in your practice, my best advice would be: do as much yoga as you need to fill your heart."
+        },
+        {
+            "id": "q5",
+            "question": "What's the Purpose of Practicing Sun Salutations?",
+            "answer": "The psoas connects in the groin at the lesser trochanter to all the lumbar vertebrae and up to T12, giving important flexion and length to the lower back. The lunge also stretches the musculature of the upper and inner thighs while also stimulating the stomach, spleen, and liver meridians."
+        },
+        {
+            "id": "q6",
+            "question": "What are the best poses for the morning?",
+            "answer": "Surya Namaskar (Sun Salutations), Utkatasana (Chair Pose), Parivrtta Utkatasana (Revolved Chair Pose), Adho Mukha Svanasana (Downward Facing Dog), Trikonasana (Triangle Pose), Natarajasana (Dancer Pose)"
+        },
+        {
+            "id": "q7",
+            "question": "What is the meaning of a lotus flower?",
+            "answer": "With its ability to unfold, enlighten, expand and bloom serenely in the face of dark, unpredictable depths, its growth is a testament to the power of solid roots and abounding light. Try to remember these lessons in your practice, and take them with you throughout your daily life."
+        }
+    ]
+}

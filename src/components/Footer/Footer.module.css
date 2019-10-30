@@ -1,0 +1,13 @@
+.Footer {
+    display: flex;
+    justify-content: center;
+}
+
+.Footer img {
+    margin: 0 20px;
+    width: 30px;
+}
+
+.CopyRights {
+    display: flex;
+}
